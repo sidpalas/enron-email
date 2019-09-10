@@ -1,0 +1,4 @@
+enron-venv/
+maildir/
+neo4j/
+*.pkl

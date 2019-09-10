@@ -18,7 +18,7 @@ This takes a while...
 
 ### Initial analysis in python
 
-(./enron-analysis.ipynb)
+[./enron-analysis.ipynb](./enron-analysis.ipynb)
 
 To be continued...
 
